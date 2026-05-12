@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/DEV/week1_day2/Arithmetic_07/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Arithmetic.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Arithmetic.dir\\src\\main.cpp.obj -c C:\\DEV\\week1_day2\\Arithmetic_07\\src\\main.cpp",
+  "file": "C:/DEV/week1_day2/Arithmetic_07/src/main.cpp",
+  "output": "CMakeFiles/Arithmetic.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/DEV/week1_day2/Arithmetic_07/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Arithmetic.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Arithmetic.dir\\src\\ArithmeticOperations.cpp.obj -c C:\\DEV\\week1_day2\\Arithmetic_07\\src\\ArithmeticOperations.cpp",
+  "file": "C:/DEV/week1_day2/Arithmetic_07/src/ArithmeticOperations.cpp",
+  "output": "CMakeFiles/Arithmetic.dir/src/ArithmeticOperations.cpp.obj"
+},
+{
+  "directory": "C:/DEV/week1_day2/Arithmetic_07/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ArithmeticTest.dir/includes_CXX.rsp -g -std=gnu++17 --coverage -o CMakeFiles\\ArithmeticTest.dir\\test\\ArithmeticOperationsTest.cpp.obj -c C:\\DEV\\week1_day2\\Arithmetic_07\\test\\ArithmeticOperationsTest.cpp",
+  "file": "C:/DEV/week1_day2/Arithmetic_07/test/ArithmeticOperationsTest.cpp",
+  "output": "CMakeFiles/ArithmeticTest.dir/test/ArithmeticOperationsTest.cpp.obj"
+},
+{
+  "directory": "C:/DEV/week1_day2/Arithmetic_07/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ArithmeticTest.dir/includes_CXX.rsp -g -std=gnu++17 --coverage -o CMakeFiles\\ArithmeticTest.dir\\src\\ArithmeticOperations.cpp.obj -c C:\\DEV\\week1_day2\\Arithmetic_07\\src\\ArithmeticOperations.cpp",
+  "file": "C:/DEV/week1_day2/Arithmetic_07/src/ArithmeticOperations.cpp",
+  "output": "CMakeFiles/ArithmeticTest.dir/src/ArithmeticOperations.cpp.obj"
+}
+]

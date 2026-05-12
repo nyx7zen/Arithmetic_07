@@ -1,0 +1,3 @@
+C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\ArithmeticTest.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\ArithmeticTest.dir/objects.a @CMakeFiles\ArithmeticTest.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g --coverage -Wl,--whole-archive CMakeFiles\ArithmeticTest.dir/objects.a -Wl,--no-whole-archive -o ArithmeticTest.exe -Wl,--out-implib,libArithmeticTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ArithmeticTest.dir\linkLibs.rsp
