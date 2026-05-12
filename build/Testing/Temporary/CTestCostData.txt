@@ -1,2 +1,2 @@
-ArithmeticTest 3 0.0155809
+ArithmeticTest 1 0.0197576
 ---
